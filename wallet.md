@@ -44,6 +44,7 @@ Please complete the form as shown in the figure below to correctly add the BTTC 
 The following sections detail how to configure custom tokens on MetaMask. This method can be used to add any custom ERC-20 tokens to MetaMask
 
 In MetaMask, click Add Token. The Token added here is the Ethereum Ropsten test network's Test Token. The address is 0x414C578d018afa9a4c9acf435a8C5fD042203901. The symbol is t. This token is only for demostration. After entering the token address, the following information will be automatically filled in, as illustrated in the figure:
+
 ![](https://i.imgur.com/6uPSMzv.png)
 
 
