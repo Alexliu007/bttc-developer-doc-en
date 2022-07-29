@@ -173,6 +173,7 @@ The contract is done, it’s time to deploy it.
 We compile and deploy contracts using [Remix](https://remix.ethereum.org/). Deploying the contract requires burning BTT to pay for gas, and BTT test coins can be obtained here.
 
 Open Metamask and select Custom RPC from the networks dropdown
+
 ![](https://i.imgur.com/TKqOTXC.png)
 
 Fill in the information as per the chart：
