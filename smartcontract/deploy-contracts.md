@@ -4,10 +4,13 @@
 Remix is a web-based IDE for writing, compiling, and deploying smart contracts.
 
 If this is your first time using Remix, you must locate and activate the "Solidity compiler" plug-in, as shown in the figure below.
+
 ![](https://i.imgur.com/BFprOBG.png)
 
 By clicking the button circled in the figure, you can create a new file called HelloWorld.sol and copy and paste the following code into it.
+
 ![](https://i.imgur.com/iTedpga.png)
+
 ### HelloWorld.sol
 ```js
 //SPDX-License-Identifier: GPL-3.0
@@ -38,20 +41,26 @@ The second line, `pragma solidity ^0.8.7`, specifies the compiler's version. Thi
 Select the Solidity compiler on the left, and select version 0.8.7 or higher.
 
 Click Compile HelloWorld.sol. When the compilation is successful, the compiler icon will have a green tick, as shown in the figure.
+
 ![](https://i.imgur.com/XNYEsGM.png)
+
 ### Network settings
 
 Open the MetaMask wallet and select Custom RPC in the drop-down menu as shown in the figure
+
 ![](https://i.imgur.com/RzNmbtC.png)
+
 Fill in according to the information in the picture:
 * Network Name: BitTorrent Chain Donau
 * RPC URL: https://pre-rpc.bt.io/ 
 * ChainID: 1029
 * Symbol: BTT
 * Block Explorer URL: https://testscan.bt.io/
+
 ![](https://i.imgur.com/5f34Tme.png)
 
 The screen after the addition is complete is shown below
+
 ![](https://i.imgur.com/p6pGbpF.png)
 
 The test account has been pre-funded with some test coins. Kindly visit the faucet to obtain a test BTT.
@@ -60,12 +69,15 @@ Once the network configuration is complete, the smart contract can be deployed o
 
 ### Deployment contracts
 First, in the DEPLOY & RUN TRANSACTIONS column of Remix, select Injected Web3 from the Environment drop-down menu
+
 ![](https://i.imgur.com/zG0J7ge.png)
 
 In the input box next to Deploy, enter the initial Greeting content
+
 ![](https://i.imgur.com/rZzofHN.png)
 
 After clicking Deploy, MetaMask will pop up a transaction confirmation window
+
 ![](https://i.imgur.com/j5fSmxg.png)
 
 Congratulations! The HelloWorld contract has been successfully deployed to the BTTC testnet. Now you can interact with it and check its status on the explorer.
