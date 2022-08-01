@@ -1,4 +1,4 @@
-## Build WEB3 APP ON BTTC
+## Build a Web3 App On BTTC
 This article is a zero-to-one DApp development tutorial, beginning with the deployment of the simplest Hello World contract, progressing through writing the contract and UI interaction to the complete deployment and online process, and culminating with learning to build a decentralized library to learn how to deploy their own DApp on the BTTC blockchain.
 ### Prerequisites
 
