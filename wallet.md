@@ -34,7 +34,7 @@ To view account fund activity on BTTC, you must configure the BTTC URL on MetaMa
 
 Please select custom RPC here to add BTTC's mainnet or testnet.
 
-![](https://i.imgur.com/txIVCxl.png)
+![](https://i.imgur.com/2h1Ui9n.png)
 
 
 Please complete the form as shown in the figure below to correctly add the BTTC mainnet.
@@ -45,7 +45,7 @@ The following sections detail how to configure custom tokens on MetaMask. This m
 
 In MetaMask, click Add Token. The Token added here is the Ethereum Ropsten test network's Test Token. The address is 0x414C578d018afa9a4c9acf435a8C5fD042203901. The symbol is t. This token is only for demostration. After entering the token address, the following information will be automatically filled in, as illustrated in the figure:
 
-![](https://i.imgur.com/6uPSMzv.png)
+![](https://i.imgur.com/rlLeGqH.png)
 
 
 The token will be displayed in your MetaMask account once the addition is complete.
@@ -58,7 +58,7 @@ If this is your first time using MetaMask, this article will walk you through th
 
 As shown in the figure, click the circular pattern in the upper right corner and then click Create Account.
 
-![](https://i.imgur.com/3IWGXkO.png)
+![](https://i.imgur.com/I1AegvE.png)
 
 
 Then enter the account name (any name can be used) in the window.
