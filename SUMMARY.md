@@ -1,12 +1,13 @@
 # Table of contents
 
 * [Quick Start](README.md)
-* [Build A WEB3 App On BTTC](build-web3-app.md)
+* [Build a Web3 App On BTTC](build-web3-app.md)
 * [Network](network/README.md)
   * [Network Details](network/network.md)
 * [Wallet](wallet.md)
 * [Smart Contract](smartcontract/README.md)
   * [Deploy contract](smartcontract/deploy-contracts.md)
+  * [Genesis Contracts](smartcontract/genesis-contracts.md)
 * [Node](nodes/README.md)
   * [Validator Node Deployment](nodes/build-validator-node.md)
   * [Fullnode Deployment](nodes/build-fullnode.md)
