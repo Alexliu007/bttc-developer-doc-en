@@ -174,7 +174,7 @@ We compile and deploy contracts using [Remix](https://remix.ethereum.org/). Depl
 
 Open Metamask and select Custom RPC from the networks dropdown
 
-![](https://i.imgur.com/nqp3gkH.png)
+<img src=https://i.imgur.com/nqp3gkH.png width=50% />
 
 
 Fill in the information as per the chart：
@@ -197,7 +197,7 @@ Select a compiler version 0.8.0 and higher
 
 After clicking Deploy, MetaMask will bring up the transaction confirmation window
 
-![](https://i.imgur.com/QauVYqE.png)
+<img src=https://i.imgur.com/QauVYqE.png width=50% />
 
 Congratulations, the Library contract has been successfully deployed to the BTTC test network and you can now interact with it and check its status in your browser!
 ### Build the DApp
