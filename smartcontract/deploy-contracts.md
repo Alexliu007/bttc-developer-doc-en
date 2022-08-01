@@ -5,11 +5,11 @@ Remix is a web-based IDE for writing, compiling, and deploying smart contracts.
 
 If this is your first time using Remix, you must locate and activate the "Solidity compiler" plug-in, as shown in the figure below.
 
-![](https://i.imgur.com/Q9GNT2X.png)
+<img src=https://i.imgur.com/Q9GNT2X.png width=50% />
 
 By clicking the button circled in the figure, you can create a new file called HelloWorld.sol and copy and paste the following code into it.
 
-![](https://i.imgur.com/3dut2ZI.png)
+<img src=https://i.imgur.com/3dut2ZI.png width=50% />
 
 ### HelloWorld.sol
 ```js
@@ -42,13 +42,13 @@ Select the Solidity compiler on the left, and select version 0.8.7 or higher.
 
 Click Compile HelloWorld.sol. When the compilation is successful, the compiler icon will have a green tick, as shown in the figure.
 
-![](https://i.imgur.com/z1LVf9j.png)
+<img src=https://i.imgur.com/z1LVf9j.png width=50% />
 
 ### Network settings
 
 Open the MetaMask wallet and select Custom RPC in the drop-down menu as shown in the figure
 
-![](https://i.imgur.com/kOElXb8.png)
+<img src=https://i.imgur.com/kOElXb8.png width=50% />
 
 Fill in according to the information in the picture:
 * Network Name: BitTorrent Chain Donau
@@ -78,8 +78,8 @@ In the input box next to Deploy, enter the initial Greeting content
 
 After clicking Deploy, MetaMask will pop up a transaction confirmation window
 
-![](https://i.imgur.com/wlG3tuU.png)
+<img src=https://i.imgur.com/wlG3tuU.png width=50% />
 
 Congratulations! The HelloWorld contract has been successfully deployed to the BTTC testnet. Now you can interact with it and check its status on the explorer.
 
-![](https://i.imgur.com/pLyk4zp.png)
+<img src=https://i.imgur.com/pLyk4zp.png width=50% />
