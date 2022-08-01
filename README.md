@@ -15,7 +15,7 @@ Tools on the ethereum blockchain are supported out of the box on BTTC. For examp
 
 All details related to the BTTC network can be found here in the [network documentation](https://bittorrent-chain.gitbook.io/bttc-docs/network).
 ### wallet
-BTTC is EVM (Ethereum Virtual Machine) compatible. In order to interact with the BTTC network, developers first need to have an Ethereum-based wallet, either the [Metamask](https://docs.polygon.technology/docs/develop/metamask/ overview) wallet or another EVM-enabled wallet.
+BTTC is EVM (Ethereum Virtual Machine) compatible. In order to interact with the BTTC network, developers first need to have an Ethereum-based wallet, either the [Metamask](https://metamask.io/) wallet or another EVM-enabled wallet.
 ### Smart contracts
 Developers can use [Remix](https://remix.ethereum.org/), [Truffle](https://trufflesuite.com/) , [Hardhat](https://hardhat.org/) and other tools to test, compile, debug and deploy decentralised applications to the BTTC network.
 ### Connecting to BTTC network
