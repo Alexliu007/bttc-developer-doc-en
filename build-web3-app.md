@@ -174,7 +174,8 @@ We compile and deploy contracts using [Remix](https://remix.ethereum.org/). Depl
 
 Open Metamask and select Custom RPC from the networks dropdown
 
-![](https://i.imgur.com/TKqOTXC.png)
+![](https://i.imgur.com/nqp3gkH.png)
+
 
 Fill in the information as per the chart：
 
@@ -184,19 +185,19 @@ Fill in the information as per the chart：
 * Symbol: BTT
 * Block Explorer URL: https://testscan.bt.io/
 
-![](https://i.imgur.com/eN4Eq1D.png)
+![](https://i.imgur.com/1kW29Jk.png)
 
 First, in the DEPLOY & RUN TRANSACTIONS section of Remix, select Injected Web3 from the Environment drop-down menu.
 
-![](https://i.imgur.com/1Hj89xm.png)
+![](https://i.imgur.com/UKBvUsJ.png)
 
 Select a compiler version 0.8.0 and higher
 
-![](https://i.imgur.com/EjGudp6.png)
+![](https://i.imgur.com/NHTCGyb.png)
 
 After clicking Deploy, MetaMask will bring up the transaction confirmation window
 
-![](https://i.imgur.com/1YKyB6Z.png)
+![](https://i.imgur.com/QauVYqE.png)
 
 Congratulations, the Library contract has been successfully deployed to the BTTC test network and you can now interact with it and check its status in your browser!
 ### Build the DApp
@@ -308,21 +309,21 @@ npm run dev
 ```
 To view the front-end page, type localhost:3000 into the browser's address bar.
 
-![](https://i.imgur.com/3UOBYAl.png)
+![](https://i.imgur.com/77Ke016.png)
 
 To post book rental information, click the "Rent Your Books" button in the upper right corner. The title of the book, a brief description of the book, and the cost of the book for one day are all included in the material.
 
-![](https://i.imgur.com/TVuUxbW.png)
+![](https://i.imgur.com/orOAorA.png)
 
 
 After you've completed the form, click the "Submit" button. The information will be passed to the library contract's addBook function, which will generate a transaction that triggers the contract. Then, as illustrated below, a Metamask pop-up box will open, requesting confirmation and signature:
 
-![](https://i.imgur.com/iKef347.png)
+![](https://i.imgur.com/CuSCj6p.png)
 
 After successfully connecting the transaction to the chain, the following leasing information will be displayed on the page:
 
-![](https://i.imgur.com/WHIH0Yt.png)
+![](https://i.imgur.com/2sc1drT.png)
 
 Click "View" to view the book's comprehensive details and to select the rental period. To initiate a lease request, click "Lent Now", then the library contract's borrowBook function will be called. Additionally, the leasing transaction must be signed and broadcasted to finish it.
 
-![](https://i.imgur.com/av00Pbe.png)
+![](https://i.imgur.com/2x339yL.png)
